@@ -72,7 +72,7 @@ Mesures complémentaires sur les commandes annulées :
 - Publication sur Power BI Service
 
 ## Aperçu
-Ajoutez ici vos captures d’écran du rapport :
+Ici ce sont les captures d’écran du rapport :
 
 ![Dashboard ventes](dashboard-ventes1.png)
 ![Dashboard ventes](dashboard-ventes2.png)
