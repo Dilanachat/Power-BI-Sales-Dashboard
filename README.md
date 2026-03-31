@@ -74,10 +74,10 @@ Mesures complémentaires sur les commandes annulées :
 ## Aperçu
 Ajoutez ici vos captures d’écran du rapport :
 
-![Dashboard ventes](assets/dashboard-ventes1.png)
-![Dashboard ventes](assets/dashboard-ventes2.png)
-![Dashboard annulations](assets/dashboard-annulations1.png)
-![Dashboard annulations](assets/dashboard-annulations2.png)
+![Dashboard ventes](dashboard-ventes1.png)
+![Dashboard ventes](dashboard-ventes2.png)
+![Dashboard annulations](dashboard-annulations1.png)
+![Dashboard annulations](dashboard-annulations2.png)
 
 ## Compétences mobilisées
 - Power BI
